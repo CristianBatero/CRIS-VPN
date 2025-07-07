@@ -1,2 +1,3 @@
-# CRIS-VPN
-Aplicación VPN para conexiones privadas
+# SocketClay
+Cliente SSH Túnnel, simples e rápido.
+
